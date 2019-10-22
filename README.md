@@ -1,4 +1,4 @@
-# Android-Client-Test
+# Android-Client-Test [![GitHub release (latest by date)](https://img.shields.io/github/v/release/noti-dropper/android-client-test)](https://github.com/noti-dropper/android-client-test/releases) ![GitHub](https://img.shields.io/github/license/noti-dropper/android-client-test)
 
 안드로이드와 백엔드 API 서버 비동기 통신 예제입니다.
 
