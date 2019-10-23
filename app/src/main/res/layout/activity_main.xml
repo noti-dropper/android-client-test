@@ -26,6 +26,19 @@
             android:id="@+id/status"
             android:text="대기중"/>
 
+        <!--ImgProcess-->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/ic_launcher" />
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:id="@+id/wordimage"
+            android:text="Image"/>
+
     </LinearLayout>
 
 
